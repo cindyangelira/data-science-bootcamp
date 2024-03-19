@@ -15,7 +15,7 @@ This repository contains the project work for the Data Science Bootcamp class DS
 ### Installation
 
 1. Clone the repo
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/cindyangelira/data-science-bootcamp.git
 
 2. Install Python packages
 pip install -r requirements.txt
